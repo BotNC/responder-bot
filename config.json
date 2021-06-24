@@ -1,0 +1,10 @@
+{
+  "responses": [
+    {
+      "input": "Hello",
+      "output": "World"
+    }
+  ],
+
+  "token": "YOUR_TOKEN_HERE"
+}
